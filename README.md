@@ -15,9 +15,15 @@ My Technical test made in 3 hours.
 Install my-project with npm
 
 ```bash
-  composer i
+  composer i --optimize-autoloader --no-dev
+  
+  cp .env.example .env
+  
   php artisan key:generate
-  yarn i
+  
+  yarn install --production --frozen-lockfile
+  
+  vite build
 ```
     
 ## Environment Variables
