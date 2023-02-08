@@ -1,8 +1,6 @@
 
-# Observia - Technical Test - PokéAPI
+# Technical Test - PokéAPI
 
-
-My Technical test made in 3 hours.
 ## Tech Stack
 
 **Client:** Vue 3
